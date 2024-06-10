@@ -41,7 +41,7 @@ let package = Package(
         .library(name: "String16", targets: ["String16"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/swifweb/EmbeddedFoundation", from: "0.1.0")
+        .package(url: "https://github.com/swifweb/EmbeddedFoundation", branch: "0.1.0")
     ],
     targets: [
         .target(
