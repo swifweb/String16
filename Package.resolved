@@ -1,0 +1,15 @@
+{
+  "originHash" : "dc2fe71cfbbb777d0029710c6b78a17cd43f07ed8ffc7983c95950a1b631604e",
+  "pins" : [
+    {
+      "identity" : "embeddedfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swifweb/EmbeddedFoundation",
+      "state" : {
+        "revision" : "e6963a3134c4b938ba914b306e2a8a45e5789e20",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}

@@ -1,0 +1,4 @@
+module _CString16 {
+    header "_CString16.h"
+    export *
+}
